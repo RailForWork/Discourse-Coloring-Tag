@@ -1,0 +1,5 @@
+Tag_color:
+  type: list
+  default: ""
+  description:
+    en: 'Comma delimited in this order: Tag Name,Background Color,Text Color.<br><b>Tag Name:</b> What your Tag Name is.<br><b>Background Color:</b> Background Color of the tag.<br><b>Text Color:</b> Decide the text color in the tag.'
