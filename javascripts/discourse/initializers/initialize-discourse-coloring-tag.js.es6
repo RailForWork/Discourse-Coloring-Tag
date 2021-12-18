@@ -71,7 +71,7 @@ export default {
             tag +
             " style='" +
             "background-color:" + backgroundColor + ";" +
-            " color:" + color + ";'" +
+            " color:" + color + "!important;'" +
             " class='" +
             classes.join(" ") +
             "'>" +
