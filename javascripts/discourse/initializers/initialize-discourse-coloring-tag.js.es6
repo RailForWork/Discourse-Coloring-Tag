@@ -5,9 +5,6 @@ import { escapeExpression } from "discourse/lib/utilities";
 import getURL from "discourse-common/lib/get-url";
 import { helperContext } from "discourse-common/lib/helpers";
 
-var test = settings.Tag_color
-console.log(test)
-
 export default {
   name: "discourse-coloring-tag",
 
